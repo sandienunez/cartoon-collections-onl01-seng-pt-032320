@@ -20,11 +20,6 @@ end
 #booleans?
 
 
-def find_the_cheese()
-  # the array below is here to help
-  cheese_types = ["cheddar", "gouda", "camembert"]
-  chees_types.include?("b")  
-end
 
 def find_the_cheese2(array, array2)
   cheese_types = array2
