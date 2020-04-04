@@ -14,6 +14,9 @@ end
 def long_planeteer_calls()
   # Your code here
 end
+#.length
+#booleans?
+
 
 def find_the_cheese()
   # the array below is here to help
