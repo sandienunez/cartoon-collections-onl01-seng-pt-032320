@@ -8,7 +8,7 @@ end
 def summon_captain_planet(planeteer_calls)
   planeteer_calls.collect do |call|
     calls.capitalize
-    puts "Earth!" + "Wind!"+ "Fire!"+ "Water!"+ "Heart!"
+    puts #{name}
   end
 end
 
