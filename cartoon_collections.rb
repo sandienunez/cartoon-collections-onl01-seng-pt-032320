@@ -1,5 +1,5 @@
 def roll_call_dwarves(names)
-  names = []
+  names = ["Doc", "Dopey", "Bashful", "Grumpy"]
   each_with_index.collect
   
 end
